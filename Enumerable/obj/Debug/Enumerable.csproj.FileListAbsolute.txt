@@ -1,0 +1,5 @@
+C:\projects\cdp\cdp-dotnet.IEnumerable\Enumerable\bin\Debug\Enumerable.dll
+C:\projects\cdp\cdp-dotnet.IEnumerable\Enumerable\bin\Debug\Enumerable.pdb
+C:\projects\cdp\cdp-dotnet.IEnumerable\Enumerable\obj\Debug\Enumerable.csproj.CoreCompileInputs.cache
+C:\projects\cdp\cdp-dotnet.IEnumerable\Enumerable\obj\Debug\Enumerable.dll
+C:\projects\cdp\cdp-dotnet.IEnumerable\Enumerable\obj\Debug\Enumerable.pdb
